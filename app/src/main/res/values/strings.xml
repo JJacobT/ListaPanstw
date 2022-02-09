@@ -1,3 +1,18 @@
 <resources>
-    <string name="app_name">ListaPanstw</string>
+    <string name="app_name">AutoCompleteTextView</string>
+    <string name="hint">Please type something...</string>
+    <string name="submit">Submit</string>
+    <string name="entered_text">Entered text:</string>
+
+    <string-array name="countries_array">
+        <item>India</item>
+        <item>Albania</item>
+        <item>Algeria</item>
+        <item>American Samoa</item>
+        <item>Andorra</item>
+        <item>Angola</item>
+        <item>Anguilla</item>
+        <item>Antarctica</item>
+    </string-array>
+
 </resources>
