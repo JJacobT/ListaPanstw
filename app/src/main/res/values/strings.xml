@@ -4,7 +4,7 @@
     <string name="submit">Submit</string>
     <string name="entered_text">Entered text:</string>
 
-    <string-array name="countries_array">
+    <string-array name="panstwa">
         <item>India</item>
         <item>Albania</item>
         <item>Algeria</item>
